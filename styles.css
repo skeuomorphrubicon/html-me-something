@@ -1,0 +1,59 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    text-align: center;
+    padding: 35px;
+}
+body {
+    background-color: blanchedalmond;
+    margin: 100px
+}
+
+ul.a {list-style-type: circle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    text-align: center
+}
+p {margin: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: antiquewhite
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    text-align: center;
+    padding: 20px;
+
+}
+ul.img {
+    align-content: center;
+    padding: 50px;
+    width: 300px;
+    height: 300px;
+}
+ul.figcaption {
+    font-size: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+img {
+    align-content: center;
+    padding: 50px;
+    width: 300px;
+    height: 300px;
+}
+
+figcaption {
+    font-size: 10px;
+    text-align: center;
+    padding: 5px;
+}
